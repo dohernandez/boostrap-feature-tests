@@ -1,6 +1,6 @@
 # boostrap-feature-tests
 
-[![Build Status](https://github.com/dohernandez/boostrap-feature-tests/workflows/test/badge.svg)](https://github.com/dohernandez/boostrap-feature-tests/actions?query=branch%3Amain+workflow%3Atest)
+[![Build Status](https://github.com/dohernandez/boostrap-feature-tests/workflows/test-unit/badge.svg)](https://github.com/dohernandez/boostrap-feature-tests/actions?query=branch%3Amain+workflow%3Atest)
 [![GoDevDoc](https://img.shields.io/badge/dev-doc-00ADD8?logo=go)](https://pkg.go.dev/github.com/dohernandez/boostrap-feature-tests)
 ![Code lines](https://sloc.xyz/github/dohernandez/boostrap-feature-tests/?category=code)
 ![Comments](https://sloc.xyz/github/dohernandez/boostrap-feature-tests/?category=comments)
